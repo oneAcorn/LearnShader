@@ -195,6 +195,79 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 292a8c6bea673a24cac44b92d0f8e1d2, type: 3}
+--- !u!1001 &1218503089
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2990568452060703645, guid: fd82b1fdbac2eb44d992f5cfc8f70fca,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 61fd04aa8c7270649915bd378468356f, type: 2}
+    - target: {fileID: 7716645821095436476, guid: fd82b1fdbac2eb44d992f5cfc8f70fca,
+        type: 3}
+      propertyPath: m_Name
+      value: SwallowGun
+      objectReference: {fileID: 0}
+    - target: {fileID: 9114095247006255589, guid: fd82b1fdbac2eb44d992f5cfc8f70fca,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -40.164
+      objectReference: {fileID: 0}
+    - target: {fileID: 9114095247006255589, guid: fd82b1fdbac2eb44d992f5cfc8f70fca,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -6.556449
+      objectReference: {fileID: 0}
+    - target: {fileID: 9114095247006255589, guid: fd82b1fdbac2eb44d992f5cfc8f70fca,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.825001
+      objectReference: {fileID: 0}
+    - target: {fileID: 9114095247006255589, guid: fd82b1fdbac2eb44d992f5cfc8f70fca,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 9114095247006255589, guid: fd82b1fdbac2eb44d992f5cfc8f70fca,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.000000015454312
+      objectReference: {fileID: 0}
+    - target: {fileID: 9114095247006255589, guid: fd82b1fdbac2eb44d992f5cfc8f70fca,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: 9114095247006255589, guid: fd82b1fdbac2eb44d992f5cfc8f70fca,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.000000015454312
+      objectReference: {fileID: 0}
+    - target: {fileID: 9114095247006255589, guid: fd82b1fdbac2eb44d992f5cfc8f70fca,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9114095247006255589, guid: fd82b1fdbac2eb44d992f5cfc8f70fca,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 9114095247006255589, guid: fd82b1fdbac2eb44d992f5cfc8f70fca,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: fd82b1fdbac2eb44d992f5cfc8f70fca, type: 3}
 --- !u!1 &1642614816
 GameObject:
   m_ObjectHideFlags: 0
@@ -624,3 +697,4 @@ SceneRoots:
   - {fileID: 1798951687065205430}
   - {fileID: 2043256182}
   - {fileID: 985512952}
+  - {fileID: 1218503089}
